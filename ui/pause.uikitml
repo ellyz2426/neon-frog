@@ -1,0 +1,5 @@
+<view flexDirection="column" alignItems="center" justifyContent="center" width="380" height="280" padding="20" backgroundColor="#0a0a1a" borderRadius="16" gap="14">
+  <text fontSize="28" color="#ffaa00" marginBottom="10">PAUSED</text>
+  <text id="btn-resume" fontSize="20" color="#00ddff" padding="8">[ RESUME ]</text>
+  <text id="btn-quit" fontSize="18" color="#ff6644" padding="6">[ QUIT ]</text>
+</view>

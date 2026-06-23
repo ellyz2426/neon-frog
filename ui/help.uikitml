@@ -1,0 +1,16 @@
+<view flexDirection="column" alignItems="center" width="480" height="480" padding="16" backgroundColor="#0a0a1a" borderRadius="16" gap="6">
+  <text fontSize="24" color="#00ffcc" marginBottom="8">HOW TO PLAY</text>
+  <text fontSize="14" color="#00ddff">Hop across 5 road lanes</text>
+  <text fontSize="14" color="#00ddff">dodging vehicles, then cross</text>
+  <text fontSize="14" color="#00ddff">5 river lanes by riding</text>
+  <text fontSize="14" color="#00ddff">logs and turtles to reach</text>
+  <text fontSize="14" color="#00ddff">the 5 home bases.</text>
+  <text fontSize="13" color="#00aa88" marginTop="8">KEYBOARD: WASD / Arrows to hop</text>
+  <text fontSize="13" color="#00aa88">ESC / P to pause</text>
+  <text fontSize="13" color="#00aa88" marginTop="4">VR: Thumbstick to hop</text>
+  <text fontSize="13" color="#00aa88">B button to pause</text>
+  <text fontSize="13" color="#00aa88">Laser pointer for menus</text>
+  <text fontSize="13" color="#ffaa00" marginTop="8">Chain forward hops for combos!</text>
+  <text fontSize="13" color="#ffaa00">Watch for diving turtles!</text>
+  <text id="btn-back" fontSize="16" color="#ff6644" padding="6" marginTop="10">BACK</text>
+</view>

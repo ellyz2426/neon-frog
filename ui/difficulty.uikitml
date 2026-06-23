@@ -1,0 +1,7 @@
+<view flexDirection="column" alignItems="center" justifyContent="center" width="400" height="360" padding="20" backgroundColor="#0a0a1a" borderRadius="16" gap="12">
+  <text fontSize="28" color="#00ffcc" marginBottom="10">DIFFICULTY</text>
+  <text id="btn-easy" fontSize="20" color="#44ff44" padding="8">[ EASY ]</text>
+  <text id="btn-medium" fontSize="20" color="#ffaa00" padding="8">[ MEDIUM ]</text>
+  <text id="btn-hard" fontSize="20" color="#ff4444" padding="8">[ HARD ]</text>
+  <text id="btn-back" fontSize="16" color="#ff6644" padding="6" marginTop="8">BACK</text>
+</view>

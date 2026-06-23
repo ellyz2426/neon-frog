@@ -1,0 +1,12 @@
+<view flexDirection="column" alignItems="center" justifyContent="center" width="500" height="580" padding="20" backgroundColor="#0a0a1a" borderRadius="16" gap="8">
+  <text fontSize="28" color="#00ffcc" marginBottom="10">SELECT MODE</text>
+  <text id="btn-classic" fontSize="17" color="#00ddff" padding="5">[ CLASSIC ]</text>
+  <text id="btn-endless" fontSize="17" color="#00ddff" padding="5">[ ENDLESS ]</text>
+  <text id="btn-timeAttack" fontSize="17" color="#00ddff" padding="5">[ TIME ATTACK ]</text>
+  <text id="btn-survival" fontSize="17" color="#00ddff" padding="5">[ SURVIVAL ]</text>
+  <text id="btn-zen" fontSize="17" color="#00ddff" padding="5">[ ZEN ]</text>
+  <text id="btn-daily" fontSize="17" color="#00ddff" padding="5">[ DAILY ]</text>
+  <text id="btn-rushHour" fontSize="17" color="#00ddff" padding="5">[ RUSH HOUR ]</text>
+  <text id="btn-speedRun" fontSize="17" color="#00ddff" padding="5">[ SPEED RUN ]</text>
+  <text id="btn-back" fontSize="16" color="#ff6644" padding="6" marginTop="8">BACK</text>
+</view>

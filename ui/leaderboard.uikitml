@@ -1,0 +1,14 @@
+<view flexDirection="column" alignItems="center" width="480" height="520" padding="16" backgroundColor="#0a0a1a" borderRadius="16" gap="4">
+  <text fontSize="24" color="#ffaa00" marginBottom="8">LEADERBOARD</text>
+  <text id="lb-0" fontSize="14" color="#00ddff">1. ---</text>
+  <text id="lb-1" fontSize="14" color="#00ddff">2. ---</text>
+  <text id="lb-2" fontSize="14" color="#00ddff">3. ---</text>
+  <text id="lb-3" fontSize="14" color="#00ddff">4. ---</text>
+  <text id="lb-4" fontSize="14" color="#00ddff">5. ---</text>
+  <text id="lb-5" fontSize="14" color="#00ddff">6. ---</text>
+  <text id="lb-6" fontSize="14" color="#00ddff">7. ---</text>
+  <text id="lb-7" fontSize="14" color="#00ddff">8. ---</text>
+  <text id="lb-8" fontSize="14" color="#00ddff">9. ---</text>
+  <text id="lb-9" fontSize="14" color="#00ddff">10. ---</text>
+  <text id="btn-back" fontSize="16" color="#ff6644" padding="6" marginTop="10">BACK</text>
+</view>

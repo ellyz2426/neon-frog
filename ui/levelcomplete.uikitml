@@ -1,0 +1,8 @@
+<view flexDirection="column" alignItems="center" justifyContent="center" width="440" height="380" padding="20" backgroundColor="#0a0a1a" borderRadius="16" gap="8">
+  <text id="level" fontSize="26" color="#44ff44" marginBottom="4">Level 1 Complete!</text>
+  <text id="score" fontSize="18" color="#00ffcc">Score: 0</text>
+  <text id="time" fontSize="16" color="#00aa88">Time: 0s</text>
+  <text id="homes" fontSize="16" color="#aa88ff">5/5 Homes Filled</text>
+  <text id="btn-next" fontSize="20" color="#00ddff" padding="8" marginTop="10">[ NEXT LEVEL ]</text>
+  <text id="btn-menu" fontSize="17" color="#ff6644" padding="6">[ MENU ]</text>
+</view>

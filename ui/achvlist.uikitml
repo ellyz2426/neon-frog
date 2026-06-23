@@ -1,0 +1,24 @@
+<view flexDirection="column" alignItems="center" width="520" height="640" padding="14" backgroundColor="#0a0a1a" borderRadius="16" gap="3">
+  <text fontSize="24" color="#ffaa00" marginBottom="6">ACHIEVEMENTS</text>
+  <text id="ach-0" fontSize="12" color="#00ddff">---</text>
+  <text id="ach-1" fontSize="12" color="#00ddff">---</text>
+  <text id="ach-2" fontSize="12" color="#00ddff">---</text>
+  <text id="ach-3" fontSize="12" color="#00ddff">---</text>
+  <text id="ach-4" fontSize="12" color="#00ddff">---</text>
+  <text id="ach-5" fontSize="12" color="#00ddff">---</text>
+  <text id="ach-6" fontSize="12" color="#00ddff">---</text>
+  <text id="ach-7" fontSize="12" color="#00ddff">---</text>
+  <text id="ach-8" fontSize="12" color="#00ddff">---</text>
+  <text id="ach-9" fontSize="12" color="#00ddff">---</text>
+  <text id="ach-10" fontSize="12" color="#00ddff">---</text>
+  <text id="ach-11" fontSize="12" color="#00ddff">---</text>
+  <text id="ach-12" fontSize="12" color="#00ddff">---</text>
+  <text id="ach-13" fontSize="12" color="#00ddff">---</text>
+  <text id="ach-14" fontSize="12" color="#00ddff">---</text>
+  <text id="page" fontSize="13" color="#00aa88" marginTop="4">Page 1/3</text>
+  <view flexDirection="row" gap="16" marginTop="4">
+    <text id="btn-prev" fontSize="15" color="#00ddff">[PREV]</text>
+    <text id="btn-next" fontSize="15" color="#00ddff">[NEXT]</text>
+  </view>
+  <text id="btn-back" fontSize="15" color="#ff6644" padding="4" marginTop="4">BACK</text>
+</view>

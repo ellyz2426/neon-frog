@@ -1,0 +1,14 @@
+<view flexDirection="column" alignItems="center" width="440" height="480" padding="16" backgroundColor="#0a0a1a" borderRadius="16" gap="5">
+  <text fontSize="24" color="#00ffcc" marginBottom="8">STATISTICS</text>
+  <text id="stat-0" fontSize="14" color="#00ddff">Games: 0</text>
+  <text id="stat-1" fontSize="14" color="#00ddff">Total Score: 0</text>
+  <text id="stat-2" fontSize="14" color="#00ddff">Best Score: 0</text>
+  <text id="stat-3" fontSize="14" color="#00ddff">Total Hops: 0</text>
+  <text id="stat-4" fontSize="14" color="#00ddff">Total Homes: 0</text>
+  <text id="stat-5" fontSize="14" color="#00ddff">Total Deaths: 0</text>
+  <text id="stat-6" fontSize="14" color="#00ddff">Best Level: 0</text>
+  <text id="stat-7" fontSize="14" color="#00ddff">Best Combo: x0</text>
+  <text id="stat-8" fontSize="14" color="#00ddff">Achievements: 0/40</text>
+  <text id="stat-9" fontSize="14" color="#00ddff">Play Time: 0m</text>
+  <text id="btn-back" fontSize="16" color="#ff6644" padding="6" marginTop="10">BACK</text>
+</view>

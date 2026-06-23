@@ -1,0 +1,36 @@
+<view flexDirection="column" alignItems="center" width="480" height="520" padding="14" backgroundColor="#0a0a1a" borderRadius="16" gap="6">
+  <text fontSize="24" color="#00ffcc" marginBottom="8">SKINS</text>
+  <view flexDirection="row" alignItems="center" gap="8">
+    <text id="skin-0" fontSize="13" color="#00aa88" width="200">Neon Classic</text>
+    <text id="btn-skin-0" fontSize="13" color="#00ddff">[SELECT]</text>
+  </view>
+  <view flexDirection="row" alignItems="center" gap="8">
+    <text id="skin-1" fontSize="13" color="#00aa88" width="200">---</text>
+    <text id="btn-skin-1" fontSize="13" color="#00ddff">[SELECT]</text>
+  </view>
+  <view flexDirection="row" alignItems="center" gap="8">
+    <text id="skin-2" fontSize="13" color="#00aa88" width="200">---</text>
+    <text id="btn-skin-2" fontSize="13" color="#00ddff">[SELECT]</text>
+  </view>
+  <view flexDirection="row" alignItems="center" gap="8">
+    <text id="skin-3" fontSize="13" color="#00aa88" width="200">---</text>
+    <text id="btn-skin-3" fontSize="13" color="#00ddff">[SELECT]</text>
+  </view>
+  <view flexDirection="row" alignItems="center" gap="8">
+    <text id="skin-4" fontSize="13" color="#00aa88" width="200">---</text>
+    <text id="btn-skin-4" fontSize="13" color="#00ddff">[SELECT]</text>
+  </view>
+  <view flexDirection="row" alignItems="center" gap="8">
+    <text id="skin-5" fontSize="13" color="#00aa88" width="200">---</text>
+    <text id="btn-skin-5" fontSize="13" color="#00ddff">[SELECT]</text>
+  </view>
+  <view flexDirection="row" alignItems="center" gap="8">
+    <text id="skin-6" fontSize="13" color="#00aa88" width="200">---</text>
+    <text id="btn-skin-6" fontSize="13" color="#00ddff">[SELECT]</text>
+  </view>
+  <view flexDirection="row" alignItems="center" gap="8">
+    <text id="skin-7" fontSize="13" color="#00aa88" width="200">---</text>
+    <text id="btn-skin-7" fontSize="13" color="#00ddff">[SELECT]</text>
+  </view>
+  <text id="btn-back" fontSize="16" color="#ff6644" padding="6" marginTop="8">BACK</text>
+</view>

@@ -1,0 +1,9 @@
+<view flexDirection="row" alignItems="center" justifyContent="center" width="460" height="50" padding="6" backgroundColor="#0a0a1a" borderRadius="8" gap="12">
+  <text id="score" fontSize="16" color="#00ffcc">0</text>
+  <text id="lives" fontSize="16" color="#ff4444">3</text>
+  <text id="level" fontSize="14" color="#00aa88">Lv 1</text>
+  <text id="combo" fontSize="14" color="#ffaa00"></text>
+  <text id="homes" fontSize="14" color="#aa88ff">0/5</text>
+  <text id="timer" fontSize="14" color="#00ddff">0s</text>
+  <text id="mode" fontSize="12" color="#667788">classic</text>
+</view>

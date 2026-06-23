@@ -1,0 +1,9 @@
+<view flexDirection="column" alignItems="center" justifyContent="center" width="440" height="400" padding="20" backgroundColor="#0a0a1a" borderRadius="16" gap="8">
+  <text fontSize="30" color="#ff4444" marginBottom="8">GAME OVER</text>
+  <text id="score" fontSize="22" color="#00ffcc">0</text>
+  <text id="level" fontSize="16" color="#00aa88">Level 1</text>
+  <text id="homes" fontSize="14" color="#aa88ff">0 homes</text>
+  <text id="combo" fontSize="14" color="#ffaa00">Best combo: x1</text>
+  <text id="btn-rematch" fontSize="20" color="#00ddff" padding="8" marginTop="10">[ REMATCH ]</text>
+  <text id="btn-menu" fontSize="17" color="#ff6644" padding="6">[ MENU ]</text>
+</view>

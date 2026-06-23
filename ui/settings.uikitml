@@ -1,0 +1,28 @@
+<view flexDirection="column" alignItems="center" width="460" height="420" padding="16" backgroundColor="#0a0a1a" borderRadius="16" gap="10">
+  <text fontSize="24" color="#00ffcc" marginBottom="8">SETTINGS</text>
+  <view flexDirection="row" alignItems="center" gap="8">
+    <text fontSize="15" color="#00aa88">Master</text>
+    <text id="btn-master-dn" fontSize="15" color="#00ddff">[-]</text>
+    <text id="master-val" fontSize="15" color="#00ffcc">100%</text>
+    <text id="btn-master-up" fontSize="15" color="#00ddff">[+]</text>
+  </view>
+  <view flexDirection="row" alignItems="center" gap="8">
+    <text fontSize="15" color="#00aa88">SFX</text>
+    <text id="btn-sfx-dn" fontSize="15" color="#00ddff">[-]</text>
+    <text id="sfx-val" fontSize="15" color="#00ffcc">100%</text>
+    <text id="btn-sfx-up" fontSize="15" color="#00ddff">[+]</text>
+  </view>
+  <view flexDirection="row" alignItems="center" gap="8">
+    <text fontSize="15" color="#00aa88">Music</text>
+    <text id="btn-music-dn" fontSize="15" color="#00ddff">[-]</text>
+    <text id="music-val" fontSize="15" color="#00ffcc">100%</text>
+    <text id="btn-music-up" fontSize="15" color="#00ddff">[+]</text>
+  </view>
+  <view flexDirection="row" alignItems="center" gap="8" marginTop="6">
+    <text fontSize="15" color="#00aa88">Theme</text>
+    <text id="btn-theme-prev" fontSize="15" color="#00ddff">[&lt;]</text>
+    <text id="theme-val" fontSize="15" color="#00ffcc">Neon Holodeck</text>
+    <text id="btn-theme-next" fontSize="15" color="#00ddff">[&gt;]</text>
+  </view>
+  <text id="btn-back" fontSize="16" color="#ff6644" padding="6" marginTop="10">BACK</text>
+</view>

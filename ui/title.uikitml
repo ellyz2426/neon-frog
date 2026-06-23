@@ -1,0 +1,11 @@
+<view flexDirection="column" alignItems="center" justifyContent="center" width="500" height="560" padding="20" backgroundColor="#0a0a1a" borderRadius="16" gap="10">
+  <text fontSize="36" color="#00ffcc" marginBottom="4">NEON FROG</text>
+  <text fontSize="13" color="#00aa88" marginBottom="12">Cross the road. Ride the river. Reach home.</text>
+  <text id="btn-play" fontSize="22" color="#00ddff" padding="8">[  PLAY  ]</text>
+  <text id="btn-scores" fontSize="17" color="#00ddff" padding="5">[ LEADERBOARD ]</text>
+  <text id="btn-achv" fontSize="17" color="#00ddff" padding="5">[ ACHIEVEMENTS ]</text>
+  <text id="btn-stats" fontSize="17" color="#00ddff" padding="5">[ STATS ]</text>
+  <text id="btn-skins" fontSize="17" color="#00ddff" padding="5">[ SKINS ]</text>
+  <text id="btn-settings" fontSize="17" color="#00ddff" padding="5">[ SETTINGS ]</text>
+  <text id="btn-help" fontSize="17" color="#00ddff" padding="5">[ HELP ]</text>
+</view>
